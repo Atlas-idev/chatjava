@@ -1,0 +1,7 @@
+com\univchat\entities\Etudiant.class
+com\univchat\test\TestDatabase.class
+com\univchat\entities\Message.class
+com\univchat\websocket\ChatWebSocket.class
+com\univchat\servlets\LoginServlet.class
+com\univchat\servlets\RegisterServlet.class
+com\univchat\services\MessageService.class
